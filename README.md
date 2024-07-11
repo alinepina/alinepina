@@ -18,7 +18,7 @@ I'm a beginner programmer exploring the exciting world of coding with CSS, JavaS
 
 #### Always Learning:
 - Passionate about new technologies, humanities, and innovative solutions.
-- Active participant in tech communities such as PyLadies, Minas Programam, Maria Lab, extended reality communities, and AI research groups.
+- Active participant in tech communities such as PyLadies, Minas Programam, Maria Lab, Meta developer Circle, extended reality communities, and AI research groups.
 
 Let's connect and collaborate on exciting projects! 🚀
 
