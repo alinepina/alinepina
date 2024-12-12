@@ -7,7 +7,7 @@ I'm a beginner programmer exploring the exciting world of coding with CSS, JavaS
 - 🎓 **Academic Background:** 
   - Master's in Interaction Design from ESDI/UERJ, focusing on interactive and immersive experiences (2024).
   - Bachelor's in Social Communication from ECO/UFRJ, with a thesis on augmented reality experiences (2015).
-- 📝 **Publications:** Published an article in the field of virtual and augmented reality.
+- 📝 **Publications:** Published article in the field of virtual and augmented reality.
 - 👩‍🏫 **Educator:** Taught Introduction to VR and AR at the Escola de Cinema Darcy Ribeiro.
 - 👥 **Leadership:** Founder and board member of the Brazilian Association of Extended Reality Companies (XRBR). Led development teams on XR/Metaverse projects.
 - 🌍 **International Representation:** Represented Brazil at the LATAM Prospecta Américas event, organized by the Organization of American States (OAS) in Lima, Peru.
